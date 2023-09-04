@@ -11,7 +11,7 @@
 //int a=5 ( there is no semicolon , syntax error)
 //d=4   ( variable not  declared , syntax error)
 //
-//                                2.logical errors-->>( bug)
+//                                2.logical errors -->>( bug)
 
 //when a program compiles and runs but does the wrong thing
 //
