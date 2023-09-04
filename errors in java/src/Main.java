@@ -1,4 +1,4 @@
-                                           //errors==>>>
+                              //errors==>>>
 //                3 type of errors...
 //1.syntax errors
 //2.logical errors
