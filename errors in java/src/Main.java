@@ -26,7 +26,7 @@
 //
 //  }
 //}
-                          //   3.runtime errors---->>
+                          //   3.runtime  errors---->>
 
 //public classMain {
 //    public static void main(String[] args) {
