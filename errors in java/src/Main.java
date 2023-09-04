@@ -4,7 +4,7 @@
 //2.logical errors
 //3.runtime errors---> also called exaptions.
 //
-//                        1.syntax errors--
+//                        1.syntax errors-->
 //  when compiler find something worng whit our program
 //  it is throw a syntax error.
 //
